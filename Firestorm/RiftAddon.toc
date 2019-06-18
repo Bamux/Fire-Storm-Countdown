@@ -1,0 +1,9 @@
+Identifier = "pyro"
+Name = "Firestorm"
+Description = "Fire Storm Countdown \n\n /pyro help \n /pyro size=X \n /pyro font=X \n /pyro limiter=X \n /pyro move"
+Author = "Bamu"
+Email = "bamu@brutwacht"
+Version = "1.01"
+Environment = "2.7"
+RunOnStartup = {"Firestorm.lua"}
+SavedVariables = {pyro_config = 'account'}
